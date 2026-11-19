@@ -1,5 +1,11 @@
 #+TITLE: The starting point
 
+EDIT: This repo will be a public blog, instead of a starting point for work.
+The name `pylon` will continue serve for a public repo for bootstrapping &
+tooling purpose. It's just that in the days of agents, I want to keep a clean
+place for my own writing; and I don't think I write much code these days, and
+I would feel ashamed if I call the code written by agents "my own".
+
 #+BEGIN_QUOTE
 You must construct additional pylons!  -- Angry Protoss Executor, from StarCraft
 #+END_QUOTE
